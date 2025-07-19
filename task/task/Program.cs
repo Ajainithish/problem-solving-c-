@@ -11,7 +11,7 @@ namespace task
         static void Main(string[] args)
         {
             //task 1
-           /* Console.WriteLine("enter your number 1");
+            Console.WriteLine("enter your number 1");
             int a = int.Parse(Console.ReadLine());s
             Console.WriteLine("enter your number 2");
             int b = int.Parse(Console.ReadLine());
@@ -20,7 +20,7 @@ namespace task
             
             Console.WriteLine("difference of number is"  + (Math.Abs(a-b)));
 
-            Console.WriteLine("product of number is"  +  a * b);*/
+            Console.WriteLine("product of number is"  +  a * b);
 
             //task2
 
