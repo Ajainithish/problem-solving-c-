@@ -1,0 +1,6 @@
+C:\Users\Jasmine George\Downloads\ajainithish\task\task\bin\Debug\task.exe.config
+C:\Users\Jasmine George\Downloads\ajainithish\task\task\obj\Debug\task.csprojResolveAssemblyReference.cache
+C:\Users\Jasmine George\Downloads\ajainithish\task\task\bin\Debug\task.exe
+C:\Users\Jasmine George\Downloads\ajainithish\task\task\bin\Debug\task.pdb
+C:\Users\Jasmine George\Downloads\ajainithish\task\task\obj\Debug\task.exe
+C:\Users\Jasmine George\Downloads\ajainithish\task\task\obj\Debug\task.pdb
